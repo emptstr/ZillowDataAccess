@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegionChildren:regionchildren xsi:schemaLocation="http://www.zillow.com/static/xsd/RegionChildren.xsd https://www.zillowstatic.com/vstatic/80d5e73/static/xsd/RegionChildren.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:RegionChildren="http://www.zillow.com/static/xsd/RegionChildren.xsd">
+  <request>
+    <state>wa</state>
+    <city>seattle</city>
+    <childtype>neighborhood</childtype>
+  </request>
+  <message>
+    <text>Request successfully processed</text>
+    <code>0</code>
+  </message>
+  <response>
+    <region>
+      <id>16037</id>
+      <country>United States</country>
+      <state>Washington</state>
+      <county>King</county>
+      <city>Seattle</city>
+      <cityurl>http://www.zillow.com/real-estate/WA-Seattle</cityurl>
+      <latitude>47.590955</latitude>
+      <longitude>-122.382608</longitude>
+    </region>
+    <subregiontype>neighborhood</subregiontype>
+    <list>
+    <region>
+      <id>343997</id>
+      <name>Alki</name>
+      <zindex currency="USD">537360</zindex>
+      <url>http://www.zillow.com/real-estate/WA-Seattle/Alki</url>
+      <latitude>47.56955</latitude>
+      <longitude>-122.397729</longitude>
+    </region>
+    </list>
+  </response>
+</RegionChildren:regionchildren>
